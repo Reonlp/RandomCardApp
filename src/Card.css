@@ -1,0 +1,11 @@
+.Card {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
+
+.Deck-cardarea {
+    margin-top: 80px;
+}
